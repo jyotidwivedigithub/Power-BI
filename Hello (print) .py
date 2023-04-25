@@ -1,0 +1,7 @@
+print("hello world")
+print(5)
+print("bye")
+print("sum", 4)
+print(12*12)
+print ("this is a pen.")
+print("this is horrible!!!")
